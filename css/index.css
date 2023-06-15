@@ -1,0 +1,38 @@
+body{
+font-family:arial;
+font-size:18px;
+color:#666;}
+
+a{
+color:#333;}
+
+h2,h3,#slide h5{
+font-size:36px;
+text-transform:capitalize;}
+
+h3{
+font-size:28px;}
+
+h4{
+font-size:24px;
+}
+
+h2, h3, h4{
+margin-bottom:25px;}
+
+.section{
+padding-top:50px;
+padding-bottom:50px;
+}
+
+.bg-black{
+background:#000;}
+
+.bg-white{
+background:#FFF;}
+
+#footer ul{
+padding:0;}
+
+#footer ul li{
+list-style:none;}
